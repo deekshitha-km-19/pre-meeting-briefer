@@ -1,0 +1,6 @@
+{
+  "name": "Pre-Meeting Briefer",
+  "description": "AI-powered meeting preparation briefs that analyze agendas, documents, and notes so you walk into every meeting prepared.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
